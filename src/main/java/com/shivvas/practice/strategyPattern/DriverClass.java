@@ -1,11 +1,14 @@
-package main.java.com.shivvas.practice.strategyPattern;
+package com.shivvas.practice.strategyPattern;
 
-import main.java.com.shivvas.practice.strategyPattern.sortingAlgo.ISortingAlgo;
-import main.java.com.shivvas.practice.strategyPattern.sortingAlgo.MergeSort;
-import main.java.com.shivvas.practice.strategyPattern.sortingAlgo.QuickSort;
+import com.shivvas.practice.strategyPattern.sortingAlgo.ISortingAlgo;
+import com.shivvas.practice.strategyPattern.sortingAlgo.MergeSort;
+import com.shivvas.practice.strategyPattern.sortingAlgo.QuickSort;
 
 import java.util.Arrays;
 
+/**
+ * Simple java app demonstrating strategy pattern
+ */
 public class DriverClass {
 
     public static void main(String[] args) {

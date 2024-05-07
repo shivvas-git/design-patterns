@@ -1,6 +1,4 @@
-package main.java.com.shivvas.practice.strategyPattern.sortingAlgo;
-
-import org.springframework.stereotype.Service;
+package com.shivvas.practice.strategyPattern.sortingAlgo;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package main.java.com.shivvas.practice.strategyPattern.sortingAlgo;
+package com.shivvas.practice.strategyPattern.sortingAlgo;
 
 import java.util.List;
 
