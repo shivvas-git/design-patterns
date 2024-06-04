@@ -1,0 +1,20 @@
+# Compiled class file
+*.class
+# Log file
+*.log
+# BlueJ files
+*.ctxt
+
+# Package Files #
+**/target/*
+*.zip
+*.tar.gz
+*.rar
+*.jar
+*.war
+*.nar
+*.ear
+*.iml
+*.lst
+**/target/*
+*.idea/
